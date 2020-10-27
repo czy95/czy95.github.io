@@ -1,3 +1,6 @@
+---
+layout:post
+---
 ### Related Papers
 * [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)
   - 现象: VR，AR用于安全培训

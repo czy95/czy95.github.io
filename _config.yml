@@ -1,8 +1,8 @@
-title: Raw Thought
-description: Inspired by Yi Wang
-author: CZFZDXX
+title: Joey' Home
+description: x
+author: Joey Chen
 # github: https://gitlab.com/ComplicatedPhenomenon
-about: Practice your creativity
+about: Time never lies
 # google_analytics:
 avatar_url: /static/img/av84n.jpg
 
@@ -12,14 +12,14 @@ tagarray: []
 
 social:
     - icon: fa-twitter
-      link: "https://twitter.com/czfzdxx"
+      link: 
     - icon: fa-stack-exchange
-      link: "https://stackoverflow.com/users/7583919/complicatedphenomenon"
+      link: 
     - icon: fa-gitlab
-      link: "https://gitlab.com/complicatedphenomenon"
+      link: 
 
 share:
-  twitter_username: czfzdxx
+  twitter_username: 
 
 urls:
     - text: About

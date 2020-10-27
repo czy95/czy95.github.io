@@ -20,3 +20,6 @@
   - Method: 
     1. 用一阶延迟方程预测模拟位置（提前预估），然后让计算3种情况下的运行时间
     2. 设备：unity3D,A joystick (Logitech Extreme 3D Pro)
+  - Results:
+    1. with delay + predition 比现实模拟（without delay and predition)相比差不多，可能是因为重叠导致。（*改进策略，一定距离不显示*）
+    2. 比without prediction好， Fisher's LSD（统计测量）

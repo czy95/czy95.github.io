@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 ---
 ### Related Papers
 * [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)

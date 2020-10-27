@@ -1,0 +1,36 @@
+digraph G {
+label = "Main structure of Elmag";
+node [shape = record];
+
+A0 [label = "Elmag"];
+
+A1 [label = "module.f90"];
+a1bm [label = "Module:\n stack\n EBL_fit\n xsec \n constants\n cosmology\n internal", color = green];
+
+A2 [label = "elmag.f90"];
+a2bf [label = "Function:\n w_EBL_density\n int_length\n sigpair\n zpair\n sigics
+\n zics \nzsigics\n rate_bb\n eloss\n themf", color = red];
+a2bs [label = "Subroutine:\n cascade\n angle_delay\n interaction\n store_particle
+\n get_particle\n sample_photon\n sample_electron", color = blue];
+
+A3 [label = "user.f90"];
+head [label = "program Elmagcasc", color = yellow];
+
+
+a3bm [label = "Module:\n user_result\n user_variables", color = green];
+a3bf [label = "Function:\n bemf\n thereg_en", color = red]
+a3bs [label = "Subroutine:\n user_main\n user_output\n register\n initial_particle \n
+plots", color = blue];
+
+A4 [label = "init.f90"];
+a4b [label = "Read from\n Table Folder", shape = ellipse];
+A5 [label = "aux.f90"];
+a5b [label = "Contains\n auxiliary\n functions", shape = ellipse];
+A0->{A1;A2;A3;A4;A5}[color="#FFFF00"];
+A1->{a1bm};
+A2->{a2bf;a2bs};
+A3->{head};
+A3->{a3bm; a3bf;a3bs};
+A4->{a4b};
+A5->{a5b};
+}

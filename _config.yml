@@ -1,0 +1,47 @@
+title: Raw Thought
+description: Inspired by Yi Wang
+author: CZFZDXX
+# github: https://gitlab.com/ComplicatedPhenomenon
+about: Practice your creativity
+# google_analytics:
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/czfzdxx"
+    - icon: fa-stack-exchange
+      link: "https://stackoverflow.com/users/7583919/complicatedphenomenon"
+    - icon: fa-gitlab
+      link: "https://gitlab.com/complicatedphenomenon"
+
+share:
+  twitter_username: czfzdxx
+
+urls:
+    - text: About
+      url: /about/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://czfzdxx.gitlab.io/"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

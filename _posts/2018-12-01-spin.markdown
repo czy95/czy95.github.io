@@ -1,0 +1,38 @@
+---
+layout: post
+title: Spin
+date:  2018-12-01 15:16:17 +0800
+categories: [Physics]
+comments: true
+mathjax: true
+---
+
+**Contents**
+* TOC
+{:toc}
+## Support from experiment in early time
+* Fine structure of hydrogen atom
+
+* Stern-Gerlach experiment
+
+## Theoretical theory development
+Klein-Gorden function characterize a spinless field. Explain it with formula.
+
+Spin is a fuzzy concept for me, I try to understand several times, I got several
+pieces of information, yet the physical picture is fuzzy.
+
+Multi components of a particle's wave function represents what? Is it uncover more features
+of the particle, intrinsic properties which is unfamiliar with classical picture.
+
+
+$$\nabla^2 - \frac{1}{c^2}\frac{\partial^2}{\partial t^2} = \left(A \partial_x + B \partial_y + C \partial_z + \frac{i}{c}D \partial_t\right)\left(A \partial_x + B \partial_y + C \partial_z + \frac{i}{c}D \partial_t\right).$$
+
+On multiplying out the right side we see that, in order to get all the cross-terms such as $\partial_x \partial_y$ to vanish, we must assume
+
+$$AB + BA = 0, \;\ldots$$
+
+with
+
+$$A^2 = B^2 = \ldots = 1.\,$$
+
+> Dirac, who had just then been intensely involved with working out the foundations of Heisenberg's matrix mechanics, immediately understood that these conditions could be met if $A$, $B$, $C$ and $D$ are matrices, with the implication that the wave function has multiple components. This immediately explained the appearance of two-component wave functions in Pauli's phenomenological theory of spin, something that up until then had been regarded as mysterious, even to Pauli himself. However, one needs at least 4 × 4 matrices to set up a system with the properties required — so the wave function had four components, not two, as in the Pauli theory, or one, as in the bare Schrödinger theory. The four-component wave function represents a new class of mathematical object in physical theories that makes its first appearance here.

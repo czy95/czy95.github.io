@@ -1,0 +1,42 @@
+digraph {
+label = "Frameworks(Library)| Buzzword example";
+node [shape = record];
+
+S [label = "Framework"];
+S0[label = "Back-end Framework\n (Web application Framework)"];
+S1[label = "Front-end Framework\n (or CSS Frameworks) "];
+
+y1 [label = "Silicon"];
+y2[label = "cmscpp"];
+y3 [label = "tree frog framework"]
+Y [label = "C++"];
+
+a1 [label = "Django"];
+a2 [label = "Flask"];
+a3 [label = "TurboGears"];
+a4 [label = "Pyramid"];
+A [label = "Python"];
+
+b1 [label = "Ruby on Rails"];
+b2 [label = "Sinatra"];
+b3 [label = "Hanami"];
+b4 [label = "Cuba"];
+B [label = "Ruby"];
+
+c1 [label = "Bootstrap"];
+c2 [label = "Foundation"];
+c3 [label = "Semantic UI"];
+
+d1 [label = "React.js"];
+d2 [label = "Angular.js"];
+d3 [label = "Vue.js"];
+d4 [label = "Backbone.js"];
+d5 [label = "Ember.js"];
+
+S->{S0;S1};
+S0->{a1;a2;a3;a4}->A[color="green"];
+S0->{b1;b2;b3;b4}->B;
+S0->{y1;y2;y3}->Y;
+S1->{d1;d2;d3;d4;d5};
+S1->{c1;c2;c3};
+}

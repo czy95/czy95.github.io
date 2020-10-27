@@ -1,3 +1,6 @@
+---
+layout: post
+---
 ## 复习老板的BIM课
 [Canvas链接](https://access.ust.hk/cas/login?client_name=Student+%2F+Staff+%2F+Project&ticket=ST-296501-1xlfQ2m10wn7DnedfkE2mekFL-scas1) 
 

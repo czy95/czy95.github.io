@@ -4,16 +4,30 @@ layout: post
 ### Related Papers
 * [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)
   - 现象: VR，AR用于安全培训
-  - 应用场景：前期阶段，工人，
+  - 应用场景：前期阶段，模拟施工阶段，工人，
   - 特性： 
     1. 现存VR平台，缺乏良好框架方法，无法普及
     2. VR模拟大多关注方向风险，很少关注减轻风险
     3. 构建VR安全训练平台的费用高
   - Method：
     1. Decision-Making Accident Scenario(DMAS)模型，高度整合
-    2. 设备：Unity and Google VR SDK， smartphone-based VR platform
+    2. 设备：Unity and Google VR SDK， google cardboard, headphones, smartphone-based VR platform, Revit, Maya(**介绍了为什么要用**）
+      - 介绍了Unity，
+    3. 如果有操作错误会有意外报警。
+    4. 具体步骤：
+      1. RIF+ARP-risk identification framework. 分类现场风险,包含类别，原因，和预警措施3部分（ARP)
+        - OSHA指南+实地考察缩减范围
+      2. Accidental situations(As) + Possible Accidents(PA) -by site visit
+      3. 依据As和VR找出A,依据RIF得到P.(CP/IP)
+      4. 在VR中建模
+  - Evaluation：
+    - parameters: 1. identifying risks correctly. 2. suggesting corresponding precautions
+    - **Feeback Questionaire**
   - Results：
-  - `My thoughts`
+    - 识别结果不好，证明VR的重要性。。
+  - Others: 
+    - Revit was not a non-uniform rational B-spline (NURBS) modeler, which generally helped in manipulating 3D curves and surfaces of any object, it couldn't be used for creating these models
+  - `My thoughts： 结果不好，会不会有其他的原因。逻辑`
   
 * [An Assistive Interface of a Teleoperation System of an Excavator by Overlapping the Predicted Position of the Arm](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_97.pdf)
   - 现象：用遥控液压挖掘机在灾后进行快速安全施工

@@ -2,7 +2,7 @@
 layout: post
 ---
 ## 复习老板的BIM课
-[Canvas链接](https://access.ust.hk/cas/login?client_name=Student+%2F+Staff+%2F+Project&ticket=ST-296501-1xlfQ2m10wn7DnedfkE2mekFL-scas1) 
+[Canvas链接](https://cas.ust.hk/cas/login?service=https%3A%2F%2Faccess.ust.hk%2Fcas%2Flogin%3Fclient_name%3DStudent%2B%252F%2BStaff%2B%252F%2BProject) 
 
 ### 10.2课
 - All major public project exceeding HKD 30M should use BIM from 1/1/2018

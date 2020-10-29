@@ -1,0 +1,25 @@
+## X
+- [Full body pose estimation of construction equipment using computer vision and deep learning techniques](https://sci-hub.do/10.1016/j.autcon.2019.103016)
+  - 现象：监督施工机械运作
+  - 应用场景：施工阶段，安全管理人员
+  - 特性： 
+    - Q:需要人工多，以往的CV不能识别姿态（为安全提供的信息少，有漏洞）
+    - A:实现关键关键节点识别（以挖掘机为例，确定了6个特征点为预测对象）,post estimation，可以预防潜在风险，_提供更丰富的安全信息_
+  - Methods：
+    - 数据：
+      - 监控视频 去重：间隔采集，Histogram matching+improved BC
+      - 确定了3大keypoints（x,y,v)标注规则，“object-centric". **Human Annotation Tool**可以输出XML 
+      - data aug: rotation,flipping,resizing..color..+ online/normal
+    - models:
+      - HG + CPN + HG-CPN
+      - Transfer learning for time-saving
+      - Lost Fun: 默认同特征的图片是一组，评价取平均。但是输入前，对于计算机而言是不同的
+      - 评估：NE, PCK, AUC, dect speed, training time
+  - Evaluation：
+    - 25帧采集网络视频，6个节点
+  - `Extension`
+    - Ensemble 耗时长
+    - 怕众包影响质量，自己标注导致数据集少
+    - 3个点精度不行，被阻挡情况表现不好
+    - **周围的场景可能是有有用信息的**
+    - **My:距离的远近会不会对标注产生误差，在3大规则里面要注明**

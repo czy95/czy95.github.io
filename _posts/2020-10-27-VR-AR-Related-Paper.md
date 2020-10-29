@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+现象：广泛存在、可循环、会反复出现。如绑扎钢筋失败。会涉及各阶段。
 ## ISARC-Meeting
 ### 1. [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)
   - 现象: VR，AR用于安全培训
@@ -52,6 +53,11 @@ layout: post
   - Others：
     - ***提到了MR的第4个特性，storage***
     - 提到了AR对建设活动有作用（他人，包括自己也证实了）。Shin et al.identified work tasks as well as construction activities that can benefit from Augmented Reality based on technology suitability [6].
+
+### 4. [Five-dimensional Simulation of Bridge Engineering Based on BIM and VR](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_14.pdf)
+  - x:用的Fuzor做的VR simulation/annimation
+  - 应用场景: construction management
+  - 特性：4D用的很多，但是cost不多。method本文做了5D，bridge的建造阶段（前期预制和后期排除）
     
 * [测试链接SCI-HUB功能](https://sci-hub.do/10.1061/(asce)co.1943-7862.0001749)
 

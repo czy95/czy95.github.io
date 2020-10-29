@@ -1,12 +1,15 @@
 ## ***2020-11-02 individual meeting***
 - ***Work Report,***
   0. **Make a applogize** (enrollment, application, ID, others phone.. begining ajustment, happy to find a good place with nice collegues)
-  1. **Ros#**
-  2. **Reading**, ISARC Meeting Sharing
-  3. **Deep learning**
+  1. **Project**
+    - Ros#
+    - AirSim, report
+  2. **Academic**
+    - Reading, ISARC Meeting Sharing
+    - Deep learning
     - my ideas
-  4. **Projects**
-  5. **Next Step**
+  3. **Life** life is not only study... but also many trivials..
+  4. **Next Step**
     - find my goals
   
 ## ***2020-10-13 individual meeting***

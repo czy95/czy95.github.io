@@ -38,6 +38,7 @@
     - Further ROS studies, try to realize a more advanced project. Learn some about Gazebo, Rivz.
     - Finish SLAM classes, realize the optimization, how to combine with ROS.
     - Finish deep learning courses. (2/5) 
+    
 ## ***2020-09-28 individual meeting***
 - ***VR,AR & Robot in Construction Industry***
   1. Literature Review

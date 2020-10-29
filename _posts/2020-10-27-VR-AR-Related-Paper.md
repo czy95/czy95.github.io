@@ -1,8 +1,8 @@
 ---
 layout: post
 ---
-### ISARC-Meeting
-* [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)
+## ISARC-Meeting
+### 1. [Scenario-Based Construction Safety Training Platform Using Virtual Reality](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_379.pdf)
   - 现象: VR，AR用于安全培训
   - 应用场景：前期阶段，模拟施工阶段，工人，
   - 特性： 
@@ -29,7 +29,7 @@ layout: post
     - Revit was not a non-uniform rational B-spline (NURBS) modeler, which generally helped in manipulating 3D curves and surfaces of any object, it couldn't be used for creating these models
   - `My thoughts： 结果不好，会不会有其他的原因。逻辑`
   
-* [An Assistive Interface of a Teleoperation System of an Excavator by Overlapping the Predicted Position of the Arm](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_97.pdf)
+### 2. [An Assistive Interface of a Teleoperation System of an Excavator by Overlapping the Predicted Position of the Arm](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_97.pdf)
   - 现象：用遥控液压挖掘机在灾后进行快速安全施工
   - 应用场景：灾后重建，驾驶员
   - 特性：
@@ -40,20 +40,18 @@ layout: post
   - Results:
     1. with delay + predition 比现实模拟（without delay and predition)相比差不多，可能是因为重叠导致。（*改进策略，一定距离不显示*）
     2. 比without prediction好， Fisher's LSD（统计测量）
-* [Constructible Design for Off-site Prefabricated Structures in Industrial Environments: Review of Mixed Reality Applications](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_127.pdf)
+### 3. [Constructible Design for Off-site Prefabricated Structures in Industrial Environments: Review of Mixed Reality Applications](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_127.pdf)
   - 现象：棕地开发
   - 应用场景：施工，工人
   - 特性： 
     1. 棕地开发复杂（场地设施权限，需要探测地下设备结构，安全，计划）.constructability不行
     2. 预制是定制的，意味组装阶段不能改，constructability不行
-  - Methods（最好要和特性一一对应）: MR叠加到现实,提高constructability, optimize stragety
+  - Methods（最好要和特性一一对应）: 
+    - MR叠加到现实,提高constructability, optimize stragety
+    - 定性分析了layout & position, excavation, stategizing三个阶段。。（**没有论证**）
   - Others：
-    - 提到了MR的第4个特性，storage
+    - ***提到了MR的第4个特性，storage***
     - 提到了AR对建设活动有作用（他人，包括自己也证实了）。Shin et al.identified work tasks as well as construction activities that can benefit from Augmented Reality based on technology suitability [6].
-      1. 布置和定位
-      2. 开挖
-      3. 策划
-  - `没有论证。。纯理论文章`
     
 * [测试链接SCI-HUB功能](https://sci-hub.do/10.1061/(asce)co.1943-7862.0001749)
 

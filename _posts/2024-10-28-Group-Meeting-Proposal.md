@@ -1,7 +1,14 @@
-
 ## ***2020-11-02 individual meeting***
-
-
+- ***Work Report,***
+  0. **Make a applogize** (enrollment, application, ID, others phone.. begining ajustment, happy to find a good place with nice collegues)
+  1. **Ros#**
+  2. **Reading**, ISARC Meeting Sharing
+  3. **Deep learning**
+    - my ideas
+  4. **Projects**
+  5. **Next Step**
+    - find my goals
+  
 ## ***2020-10-13 individual meeting***
 - ***Work Report about ROS, SLAM, etc.***
   1. **Work-Ros:**

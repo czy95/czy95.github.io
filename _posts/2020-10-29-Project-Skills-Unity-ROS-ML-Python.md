@@ -36,6 +36,8 @@
     
 
   - machine learning
+- [解释结构模型](http://www.huaxuejia.cn/ism/how_to_use_ism.php)
+
   
 ### idea
 

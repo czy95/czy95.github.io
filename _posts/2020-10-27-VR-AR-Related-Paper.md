@@ -38,6 +38,7 @@ layout: post
   - Results:
     1. with delay + predition 比现实模拟（without delay and predition)相比差不多，可能是因为重叠导致。（*改进策略，一定距离不显示*）
     2. 比without prediction好， Fisher's LSD（统计测量）
+    
 ### 3. [Constructible Design for Off-site Prefabricated Structures in Industrial Environments: Review of Mixed Reality Applications](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_127.pdf)
   -** 现象：棕地开发可建造性不行**
   - 应用场景：施工阶段，工人
@@ -55,6 +56,7 @@ layout: post
   - **应用场景: construction management。施工管理阶段。**
   - 特性：4D用的很多，但是cost不多。method本文做了5D，bridge的建造阶段（前期预制和后期排除）
   - x:用的Fuzor做的VR simulation/annimation
+  
 ### 5. [A Construction Progress On-site Monitoring and Presentation System Based on The Integration of Augmented Reality and BIM](https://www.iaarc.org/publications/fulltext/ISARC_2020_Paper_41.pdf)
   - **现象：施工进度管理与决策还是不够**
   - 应用场景：施工阶段，管理人员的实时管理，可视化工具不行 **施工阶段变化最多且最容易出错**
@@ -66,4 +68,7 @@ layout: post
     - dynamic references + SLAM + BIM（phased),可以实现室内，real-time，免安装设备(wifi)等好处。**kevin是既有建筑用wifi footprint**
   - others:
     - 把模型分层存储，节约空间
+    
+### 6. Factors affecting the adoption of AR in AEC by [SLR-ISM](https://link.springer.com/article/10.1007/s10901-019-09674-y) or TAM(https://baike.baidu.com/item/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/2184121?fr=aladdin)
+TITLE ( "Mixed Reality"  OR  "MR"  OR  "Virtual Reality"  OR  "VR"  OR  "Augmented Reality"  OR  "AR" )  AND  TITLE ( "factors affecting"  OR  "barriers" ) 
 

@@ -69,9 +69,33 @@ layout: post
   - others:
     - 把模型分层存储，节约空间
     
-### 6. Factors affecting the adoption of AR in AEC by [SLR-ISM](https://link.springer.com/article/10.1007/s10901-019-09674-y) or TAM(https://baike.baidu.com/item/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/2184121?fr=aladdin)
+### 6. Factors affecting the adoption of AR in AEC by [SLR-ISM](https://link.springer.com/article/10.1007/s10901-019-09674-y) or [TAM](https://baike.baidu.com/item/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/2184121?fr=aladdin)
 TITLE ( "Mixed Reality"  OR  "MR"  OR  "Virtual Reality"  OR  "VR"  OR  "Augmented Reality"  OR  "AR" )  AND  TITLE ( "factors affecting"  OR  "barriers" ) 
 
 ### 7. [Recent Tools and Techniques of BIM‑Based Virtual Reality: A Systematic Review](https://sci-hub.do/10.1007/s11831-019-09386-0)
+
+### 8. [Augmented and Virtual Reality in Construction: Drivers and Limitations for Industry Adoption](https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29CO.1943-7862.0001844)
   - 
+
+
+[Trends and Research Issues of Augmented Reality Studies in Architectural and Civil Engineering Education A Review of Academic Journal Publications](https://sci-hub.do/https://doi.org/10.3390/app9091840)
+
+[Compatibility issues in augmented reality systems for AEC: An experimental prototype study]
+
+[Effectiveness of Immersive Virtual Reality-based Communication for Construction Projects]
+
+[Does Augmented Reality Effectively Foster Visual Learning Process in Construction? An Eye-Tracking Study in Steel Installation]
+
+[Users' evaluation of a virtual reality architectural model compared with the experience of the completed building]
+
+[Usability studies on building early stage architectural models in virtual reality]
+
+[Research trends and opportunities of augmented reality applications in architecture, engineering, and construction]
+
+[A framework for proactive construction defect management using BIM, augmented reality and ontology-based data collection template]
+
+[DEVELOPMENT AND EVALUATION OF A TEMPORARY PLACEMENT AND CONVEYANCE OPERATION SIMULATION SYSTEM USING AUGMENTED REALITY]
+
+[A new paradigm for Human-Building Interaction: the use of CFD and Augmented Reality]
+ 
 

@@ -72,3 +72,6 @@ layout: post
 ### 6. Factors affecting the adoption of AR in AEC by [SLR-ISM](https://link.springer.com/article/10.1007/s10901-019-09674-y) or TAM(https://baike.baidu.com/item/%E6%8A%80%E6%9C%AF%E6%8E%A5%E5%8F%97%E6%A8%A1%E5%9E%8B/2184121?fr=aladdin)
 TITLE ( "Mixed Reality"  OR  "MR"  OR  "Virtual Reality"  OR  "VR"  OR  "Augmented Reality"  OR  "AR" )  AND  TITLE ( "factors affecting"  OR  "barriers" ) 
 
+### 7. [Recent Tools and Techniques of BIM‑Based Virtual Reality: A Systematic Review](https://sci-hub.do/10.1007/s11831-019-09386-0)
+  - 
+

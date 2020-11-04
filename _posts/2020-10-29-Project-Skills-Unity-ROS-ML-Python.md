@@ -9,6 +9,7 @@
     - [unity ROS#](https://github.com/siemens/ros-sharp)
     - [unity ML-agents]
   - 之前可能有BIM导入unity材质丢失的问题，[通过3dmax中转或者C#好像可以解决](https://www.zhihu.com/question/265783552)。我下载的插件似乎就是C#写好能导入fbx的 or 外包。
+  - https://www.cm-labs.com/vortex-studio/
 
 - Robot
   - [2018年资料](https://zhuanlan.zhihu.com/p/32788790)
